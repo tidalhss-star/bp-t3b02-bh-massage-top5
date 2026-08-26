@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://banghwa-guide-tip.mapo-room-guide.xyz/sitemap.xml
+Sitemap: https://banghwa-guide-tip.mapo-room-guide.xyz/sitemap-pages.xml
